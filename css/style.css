@@ -12,3 +12,10 @@ body {
    max-width: 1200px;
    margin: 0 auto;
 }
+
+.hero {
+   width: 100%;
+   background-image: url(../images/ice-cream-cones.jpg);
+   background-size: cover;
+   background-position: center;
+}
